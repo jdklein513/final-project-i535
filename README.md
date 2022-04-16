@@ -20,11 +20,11 @@ Although the Bureau of Transportation reports travel statistics directly on thei
 
 + **static_data**: stores the static public data set which are used to generate metropolitan status, election results, and demographics features for comparing to travel recovery rates.
 
-    + 2000 2020 Presidential Election Results: 2000-2020 Presidential Election Results data extract from (Harvard Dataverse)[https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ]
+    + 2000 2020 Presidential Election Results: 2000-2020 Presidential Election Results data extract from [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ)
 
-    + 2013 NCHS Urban Rural Classification Scheme for Counties: 2013 NCHS Urban Rural Classification data extract from (National Center for Health Statistics - NCHS)[https://www.cdc.gov/nchs/data_access/urban_rural.htm#Data_Files_and_Documentation]
+    + 2013 NCHS Urban Rural Classification Scheme for Counties: 2013 NCHS Urban Rural Classification data extract from [National Center for Health Statistics - NCHS](https://www.cdc.gov/nchs/data_access/urban_rural.htm#Data_Files_and_Documentation)
 
-    + 2020 US Census Demographic Data Age Sex: 2020 U.S. Census Demographics data extract from (U.S. Census Bureau)[https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/asrh/]
+    + 2020 US Census Demographic Data Age Sex: 2020 U.S. Census Demographics data extract from [U.S. Census Bureau](https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/asrh/)
 
 
 + **dashboard**: sore the reports, presentations, models, and plot output from the code section of the repo.
